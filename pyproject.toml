@@ -1,7 +1,7 @@
 [project]
 name = "torch_weightsonly"
 description = "Stop Torch from moaning about weights, and load them safely"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
     { name = "Gareth Davidson", email = "gaz@bitplane.net" }
 ]
